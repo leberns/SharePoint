@@ -1,4 +1,4 @@
-# SharePoint Notes #
+# SharePoint #
 
 ## Past Publications
 
