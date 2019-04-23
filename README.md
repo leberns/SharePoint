@@ -1,4 +1,8 @@
-# SharePoint #
+# SharePoint
+
+## Current Projects
+
+- [SharePoint Hello Events](https://github.com/leberns/sp-hello-events): an organizational events management solution on top of SharePoint
 
 ## Past Publications
 
