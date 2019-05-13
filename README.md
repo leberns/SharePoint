@@ -10,6 +10,7 @@
 
 - [Debugging a SPFx Project with Visual Studio Code](https://github.com/leberns/sp-hello-events/wiki/Debugging-a-SPFx-Project-with-Visual-Studio-Code)
 - [Jest Testing a SPFx Project](https://github.com/leberns/sp-hello-events/wiki/Jest-Testing-a-SPFx-Project)
+- [Hello Events Installer](https://github.com/leberns/sp-hello-events/tree/master/installers/hello-events-installer): an example using the PnP Provisioning Engine
 - [Robot Framework for End to End Tests on SharePoint Framework](https://github.com/leberns/sp-hello-events/wiki/Robot-Framework-for-End-to-End-Tests-on-SharePoint-Framework)
 
 ### 2014
