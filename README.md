@@ -6,12 +6,18 @@
 
 ## Publications
 
+### 2021
+
+- [Provisioning SharePoint Sites with Power Automate and Site Templates](https://github.com/leberns/SharePoint/tree/master/docs/site-template-with-power-automate)
+
 ### 2019
 
 - [Debugging a SPFx Project with Visual Studio Code](https://github.com/leberns/sp-hello-events/wiki/Debugging-a-SPFx-Project-with-Visual-Studio-Code)
 
 - [Jest Testing a SPFx Project](https://github.com/leberns/sp-hello-events/wiki/Jest-Testing-a-SPFx-Project)
+
 - [Unit Testing with SPFx 1.4.1, SharePoint 2019, React 15](https://github.com/leberns/spfx-tests-sp2019)
+
 - [Robot Framework for End to End Tests on SharePoint Framework](https://github.com/leberns/sp-hello-events/wiki/Robot-Framework-for-End-to-End-Tests-on-SharePoint-Framework)
 
 - [Hello Events Installer](https://github.com/leberns/sp-hello-events/tree/master/installers/hello-events-installer): an example using the PnP Provisioning Engine
