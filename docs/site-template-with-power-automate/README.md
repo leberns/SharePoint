@@ -50,8 +50,6 @@ Action: Send an HTTP Request to SharePoint
     accept:application/json;odata.metadata=none 
     content-type:application/json;odata=verbose
   body:
-```
-```JSON
 {
   "request": {
     "Title": "​MySite 01",
@@ -153,8 +151,6 @@ Action: Send an HTTP Request to SharePoint
     accept:application/json;odata.metadata=none
     content-type:application/json;odata=verbose
   body:
-```
-```JSON
 {
   "actionDefinition": "@{string(outputs('SiteScript_Compose'))}"
 }
