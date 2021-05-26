@@ -8,7 +8,7 @@
 
 ### 2021
 
-- [Provisioning SharePoint Sites with Power Automate and Site Templates](https://github.com/leberns/SharePoint/tree/master/docs/site-template-with-power-automate)
+- [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/tree/master/docs/site-scripts-with-power-automate)
 
 ### 2019
 

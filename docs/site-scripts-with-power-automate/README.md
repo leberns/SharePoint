@@ -1,12 +1,12 @@
-﻿# Provisioning SharePoint Sites with Power Automate and Site Templates 
+﻿# Provisioning SharePoint Sites and Artifacts with Power Automate
 
-We are using Power Automate to create a site collection and site templates (previously known as site designs) to provision artifacts on that site.
+We are using Power Automate to create a site collection and site scripts to provision artifacts, like lists, on that site.
 
 The solution uses two flows, one flow to create the site and another for the artifacts.
 
 ## Business Scenario
 
-The users are capable of creating project sites by adding items on a Projects list.
+The users create project sites by adding items into a Projects list.
 
 The project site has a Mile Stones list.
 
