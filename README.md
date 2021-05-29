@@ -1,9 +1,5 @@
 # SharePoint
 
-## Projects
-
-- [SharePoint Hello Events](https://github.com/leberns/sp-hello-events): an organizational events management solution on top of SharePoint
-
 ## Publications
 
 ### 2021
@@ -11,6 +7,8 @@
 - [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/wiki/Site-Scripts-with-Power-Automate)
 
 ### 2019
+
+- [SharePoint Hello Events](https://github.com/leberns/sp-hello-events): an organizational events management solution on top of SharePoint
 
 - [Debugging a SPFx Project with Visual Studio Code](https://github.com/leberns/sp-hello-events/wiki/Debugging-a-SPFx-Project-with-Visual-Studio-Code)
 
