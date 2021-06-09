@@ -4,9 +4,9 @@
 
 ### 2021
 
-- [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/wiki/Site-Scripts-with-Power-Automate)
-
 - [Fine-Tuning VS Code Search for SPFx Projects](https://github.com/leberns/SharePoint/wiki/Fine-Tuning-VS-Code-Search-for-SPFx-Projects)
+
+- [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/wiki/Site-Scripts-with-Power-Automate)
 
 ### 2019
 
