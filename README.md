@@ -4,7 +4,13 @@
 
 ### 2021
 
+- [Azure DevOps with SharePoint](https://github.com/leberns/spfx-tasks/wiki/Azure-DevOps-with-SharePoint)
+
+- Demo project [SPFx Tasks](https://github.com/leberns/spfx-tasks/)
+
 - [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/wiki/Site-Scripts-with-Power-Automate)
+
+- [Fine-Tuning VS Code Search for SPFx Projects](https://github.com/leberns/SharePoint/wiki/Fine-Tuning-VS-Code-Search-for-SPFx-Projects)
 
 ### 2019
 
