@@ -8,8 +8,6 @@
 
 - Demo project [SPFx Tasks](https://github.com/leberns/spfx-tasks/)
 
-- [Fine-Tuning VS Code Search for SPFx Projects](https://github.com/leberns/SharePoint/wiki/Fine-Tuning-VS-Code-Search-for-SPFx-Projects)
-
 - [Provisioning SharePoint Sites and Artifacts with Power Automate](https://github.com/leberns/SharePoint/wiki/Site-Scripts-with-Power-Automate)
 
 - [Fine-Tuning VS Code Search for SPFx Projects](https://github.com/leberns/SharePoint/wiki/Fine-Tuning-VS-Code-Search-for-SPFx-Projects)
@@ -37,7 +35,9 @@
 - [AutoSPInstaller in German](http://workingwithsharepoint.blogspot.com/2014/09/autospinstaller-in-german.html)
 
 - [Data Access in SharePoint-hosted Apps](https://blog2.ctp.com/data-access-in-sharepoint-hosted-apps/)
+
 - [Performing REST Operations on Host Webs from SharePoint-hosted Apps](https://blog2.ctp.com/performing-rest-operations-on-host-webs-from-sharepoint-hosted-apps/)
+
 - [Resizing App Parts with PostMessage in SharePoint 2013](https://blog2.ctp.com/resizing-app-parts-with-postmessage-in-sharepoint-2013/)
 
 ### 2012
